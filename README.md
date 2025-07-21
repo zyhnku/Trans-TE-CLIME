@@ -3,5 +3,6 @@ Implementation of Trans-TE-CLIME: A transfer learning method for high-dimensiona
 \subsection*{Additional simulation results}
 
 <img width="1067" height="708" alt="image" src="https://github.com/user-attachments/assets/73377f88-9366-49ed-87d7-54034785ef9a" />
+<img width="1035" height="894" alt="image" src="https://github.com/user-attachments/assets/bad2ddff-17e0-40e4-b8ef-7179db7cf95b" />
 
 
